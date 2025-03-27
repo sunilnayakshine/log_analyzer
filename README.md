@@ -26,7 +26,12 @@ This Log Analyzer processes log files, extracts relevant information, and genera
 
 ## Installation
 
-Ensure Python is installed and install dependencies using:
+1. Clone the repository
+
+```sh
+git clone https://github.com/sunilnayakshine/log_analyzer.git
+```
+2. Ensure Python is installed and install dependencies using:
 
 ```sh
 pip install pandas
