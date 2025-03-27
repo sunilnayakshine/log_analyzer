@@ -1,6 +1,13 @@
 import argparse
 
 def arg_parser():
+    
+    """
+    Parsing the arguments to Log Anaylyzer,
+    
+    Args: None
+    Return: None
+    """
     parser = argparse.ArgumentParser(
         description="Arguments for Log Analyzer",
         add_help=True,
