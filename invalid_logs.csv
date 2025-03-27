@@ -1,0 +1,5 @@
+Invalid Log Line
+2023-03-01 09:05:30 - ??? - INFO - Malformed line
+2023-03-01 - ServiceA - ERROR - Missing timestamp detail
+2023-03-01 09:11:00 - ServiceE - 22 - This is a debug message
+2023-03-01 09:11:00 - ServiceE - ERROR -
